@@ -8,6 +8,9 @@ categories and customer segments to support executive decision making.
 ## Dashboard
 https://public.tableau.com/app/profile/lavanya.prathipati/viz/BusinessPerformanceDashboardSuperstoreAnalysis/BusinessAnalysisDashboard?publish=yes
 
+<img width="1919" height="1079" alt="Business Analysis Dashboard (3)" src="https://github.com/user-attachments/assets/85653031-c592-48d0-9c81-110935827528" />
+
+
 ## Key Findings
 - **Central region** has the lowest profit margin of 7.9% vs company average of 12.56% — driven by average discount of 24.1% vs company avg 15.5%
 - **Tables subcategory** generates -$17,753 profit on $208,020 sales — selling at a loss
